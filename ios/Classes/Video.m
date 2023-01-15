@@ -1,6 +1,6 @@
 //
 //  Video.m
-//  opentok_flutter
+//  opentok_flutter_extended
 //
 //  Created by Ayon Das on 20/06/22.
 //

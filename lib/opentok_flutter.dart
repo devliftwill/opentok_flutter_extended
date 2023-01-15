@@ -1,4 +1,4 @@
-import 'package:opentok_flutter/opentok.dart';
+import 'package:opentok_flutter_extended/opentok.dart';
 
 /// This class takes the OpenTok config and connects with platform side.
 ///

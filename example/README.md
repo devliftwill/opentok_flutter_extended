@@ -1,6 +1,6 @@
 # opentok_flutter_example
 
-Demonstrates how to use the opentok_flutter plugin.
+Demonstrates how to use the opentok_flutter_extended plugin.
 
 ## Getting Started
 

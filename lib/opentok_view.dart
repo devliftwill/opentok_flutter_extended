@@ -3,8 +3,8 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
-import 'package:opentok_flutter/opentok.dart' as open_tok;
-import 'package:opentok_flutter/opentok_flutter.dart';
+import 'package:opentok_flutter_extended/opentok.dart' as open_tok;
+import 'package:opentok_flutter_extended/opentok_flutter_extended.dart';
 
 /// The connection state, audio enabled & video enabled settings of a [OpenTokController]
 @immutable

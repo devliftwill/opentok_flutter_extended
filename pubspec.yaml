@@ -1,8 +1,8 @@
-name: opentok_flutter
+name: opentok_flutter_extended
 description: A basic OpenTok plugin for Flutter.
 version: 0.0.1
-repository: https://github.com/AyonAB/opentok_flutter
-issue_tracker: https://github.com/AyonAB/opentok_flutter/issues
+repository: https://github.com/AyonAB/opentok_flutter_extended
+issue_tracker: https://github.com/AyonAB/opentok_flutter_extended/issues
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
@@ -36,7 +36,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.natureglobal.opentok_flutter
+        package: com.natureglobal.opentok_flutter_extended
         pluginClass: OpentokFlutterPlugin
       ios:
         pluginClass: OpentokFlutterPlugin

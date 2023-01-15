@@ -1,4 +1,4 @@
-group 'com.natureglobal.opentok_flutter'
+group 'com.natureglobal.opentok_flutter_extended'
 version '1.0-SNAPSHOT'
 
 buildscript {

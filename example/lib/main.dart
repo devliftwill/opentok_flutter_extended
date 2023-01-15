@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 
-import 'package:opentok_flutter/opentok.dart';
-import 'package:opentok_flutter/opentok_view.dart';
+import 'package:opentok_flutter_extended/opentok.dart';
+import 'package:opentok_flutter_extended/opentok_view.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 void main() {

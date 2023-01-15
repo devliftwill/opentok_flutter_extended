@@ -1,4 +1,4 @@
-package com.natureglobal.opentok_flutter
+package com.natureglobal.opentok_flutter_extended
 
 import android.content.Context
 import android.util.AttributeSet

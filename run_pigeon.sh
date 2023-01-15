@@ -5,5 +5,5 @@ flutter pub run pigeon \
   --objc_header_out ios/Classes/OpenTok.h \
   --objc_source_out ios/Classes/OpenTok.m \
   --objc_prefix FLT \
-  --java_out android/src/main/java/com/natureglobal/opentok_flutter/OpenTok.java \
-  --java_package "com.natureglobal.opentok_flutter"
+  --java_out android/src/main/java/com/natureglobal/opentok_flutter_extended/OpenTok.java \
+  --java_package "com.natureglobal.opentok_flutter_extended"
